@@ -1,0 +1,25 @@
+body {
+  background-image: url('img/LesesneWedding_web-152.jpg');
+  background-repeat: no-repeat;
+  background-size: 1440px 715px;
+}
+
+a {
+  display: block;
+  margin-left: 65em;
+  width: 25%;
+  text-decoration: none;
+}
+
+h1 {
+  text-align: right;
+  text-shadow: 1px 1px Black;
+  color: #FFF;
+  font-size: 5em;
+  letter-spacing: 0.08em;
+}
+
+h1:hover {
+  color: MediumPurple;
+  text-shadow: 1px 1px Black;
+}

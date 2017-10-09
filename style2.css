@@ -1,0 +1,110 @@
+body {
+  background-color: Navy;
+}
+
+a {
+  display: block;
+  width: 50%;
+  margin-left: 23em;
+  text-decoration: none;
+}
+
+h1 {
+  position: sticky;
+  top: 0;
+  background-color: Navy;
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  font-size: 6em;
+  font-family: 'Tangerine';
+  color: #FFF;
+  z-index: 999;
+}
+
+h3 {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 1em;
+  text-align: center;
+  font-family: 'Raleway';
+  font-style: italic;
+  font-size: 2em;
+  color: #FFF;
+  width: auto;
+}
+
+div {
+  margin-top: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: Navy;
+}
+
+img {
+  display: block;
+  width: 65%;
+  height: 25%;
+  margin: auto;
+  margin-bottom: 1em;
+  border: 1px solid Navy;
+}
+
+#first_sight {
+  background-color: #FFF;
+}
+#met {
+  color: Navy;
+}
+#we_met {
+  width: 40%;
+  height: 10%;
+}
+
+#travel {
+  background-color: #FFF;
+}
+#global {
+  color: Navy;
+}
+
+#road_trip {
+  background-color: #FFF;
+}
+#cross_country {
+  color: Navy;
+}
+#cross {
+
+}
+
+#forever {
+  background-color: #FFF;
+}
+#love {
+  color: Navy;
+}
+#hawaii {
+
+}
+
+#jamaica, #dubai, #new_orleans {
+  display: inline;
+  width: 30%;
+  height: 20%;
+  margin: auto;
+}
+
+#cincinnati {
+  width: 60%;
+  height: 25%;
+  margin: auto;
+}
+
+footer p {
+  color: #FFF;
+  font-family: 'Raleway';
+  font-style: italic;
+  text-align: center;
+}
